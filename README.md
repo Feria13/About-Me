@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Feria13
+- 👋 Hi, I’m Feria Nji
 - 👀 I’m interested in software development and UI/UX design
 - 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on projects in C/C++, HTML and CSS. 
