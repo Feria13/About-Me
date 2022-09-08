@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Feria Nji
-- 👀 I’m interested in software development and UI/UX design
+- 👋 Hi, I’m Feria Nji, undergraduate student majoring in Computer Science
+- 👀 I’m interested in software development and UI/UX design for the moment.
 - 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on projects in C/C++, HTML and CSS. 
 - 📫 How to reach me www.linkedin.com/in/feria-nji-354986229
