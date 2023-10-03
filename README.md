@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Feria Nji, undergraduate student majoring in Computer Science
+- 👋 Hi, I’m Feria, undergraduate student majoring in Computer Science
 - 👀 I’m interested in backend software development and UI/UX design at the moment.
 - 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on projects in C/C++, HTML and CSS. 
