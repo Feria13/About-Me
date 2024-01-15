@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Feria, undergraduate student majoring in Computer Science
-- 👀 I’m interested in backend software development and UI/UX design at the moment.
+- 👀 I’m interested in backend software development at the moment.
 - 🌱 I’m currently learning python and C++
-- 💞️ I’m looking to collaborate on projects in C/C++, HTML and CSS. 
+- 💞️ I’m looking to collaborate on projects in C/C++/C#. 
 
 <!---
 Feria13/Feria13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
